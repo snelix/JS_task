@@ -61,7 +61,6 @@ function showMyDB(hidden) {
         console.log(personalMovieDB);
     }
 }
-
 showMyDB(personalMovieDB.privat);
 
 function writeYourGenres() {
